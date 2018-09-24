@@ -23,6 +23,6 @@ work_period = 00:25:00   # Amount of time per pomodoro
 rollover = 4        # Number of pomodoros before taking long break
 
 [presets.custom]
-extend = default    # Extend the default preset
+extend = "default"  # Extend the default preset
 rollover = 3        # Use a smaller rollover
 ```
