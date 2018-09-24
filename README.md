@@ -17,9 +17,9 @@ pip install pomo
 ### Configuration (~/.pomorc)
 ```toml
 [presets.default]
-long_break = 20m    # Length of a long break (after every <rollover> pomodoro)
-short_break = 5m    # Length of a short break
-work_period = 25m   # Amount of time per pomodoro
+long_break = 00:20:00    # Length of a long break (after every <rollover> pomodoro)
+short_break = 00:05:00   # Length of a short break
+work_period = 00:25:00   # Amount of time per pomodoro
 rollover = 4        # Number of pomodoros before taking long break
 
 [presets.custom]
