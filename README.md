@@ -24,4 +24,4 @@ Options:
 ```
 
 ## Screenshots
-![Screenshot](/assets/screenshot-1.png)
+![Screenshot](/assets/screenshot-1.PNG)
