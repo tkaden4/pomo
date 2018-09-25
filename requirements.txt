@@ -1,0 +1,7 @@
+click
+colorama
+termcolor
+rx
+toml
+cursor
+num2words
